@@ -17,21 +17,13 @@
 &lt;p&gt;Hallo dit werkt eindelijk!&lt;/p&gt;
 &lt;p&gt;waarom nu niet meer?&lt;/p&gt;
 &lt;p&gt;alleen ik heb een probleempje, ik moet een script ervoor gaan maken dat dit automatisch gebeurd, ik moet eerst robocopy &amp;ndash;&amp;gt; cd static &amp;ndash;&amp;gt; python images.py &amp;ndash;&amp;gt; cd .. &amp;ndash;&amp;gt; hugo server -t Papermod&lt;/p&gt;
-&lt;p&gt;hot&lt;/p&gt;
-&lt;p&gt;Nu wil ik dit laten leven in mijn git daar heb ik nog moeite mee, lees hugo docu&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;PS C:\Users\Emili\Documents\Scropyn&amp;gt;&lt;/li&gt;
-&lt;li&gt;robocopy&lt;/li&gt;
-&lt;li&gt;cd static&lt;/li&gt;
-&lt;li&gt;python images.py&lt;/li&gt;
-&lt;li&gt;cd ..&lt;/li&gt;
-&lt;li&gt;hugo server -t PaperMod&lt;/li&gt;
-&lt;/ol&gt;</description>
+&lt;p&gt;Fout die ik had gemaakt was de images.py niet in mijn sara directory hebben maar in de static directory lol&lt;/p&gt;
+&lt;p&gt;Nu wil ik dit laten leven in mijn git daar heb ik nog moeite mee, lees hugo docu&lt;/p&gt;</description>
       <content>&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020241129055807.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Hallo dit werkt eindelijk!&lt;/p&gt;
 &lt;p&gt;waarom nu niet meer?&lt;/p&gt;
 &lt;p&gt;alleen ik heb een probleempje, ik moet een script ervoor gaan maken dat dit automatisch gebeurd, ik moet eerst robocopy &amp;ndash;&amp;gt; cd static &amp;ndash;&amp;gt; python images.py &amp;ndash;&amp;gt; cd .. &amp;ndash;&amp;gt; hugo server -t Papermod&lt;/p&gt;
-&lt;p&gt;hot&lt;/p&gt;
+&lt;p&gt;Fout die ik had gemaakt was de images.py niet in mijn sara directory hebben maar in de static directory lol&lt;/p&gt;
 &lt;p&gt;Nu wil ik dit laten leven in mijn git daar heb ik nog moeite mee, lees hugo docu&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;PS C:\Users\Emili\Documents\Scropyn&amp;gt;&lt;/li&gt;
@@ -41,6 +33,7 @@
 &lt;li&gt;cd ..&lt;/li&gt;
 &lt;li&gt;hugo server -t PaperMod&lt;/li&gt;
 &lt;/ol&gt;
+&lt;p&gt;HOIIIII&lt;/p&gt;
 </content>
     </item>
     
