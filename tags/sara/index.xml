@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sara on Terminal</title>
+    <title>Sara on Scropyn</title>
     <link>https://scropyn.github.io/sarablog/tags/sara.html</link>
-    <description>Recent content in Sara on Terminal</description>
+    <description>Recent content in Sara on Scropyn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://scropyn.github.io/sarablog/tags/sara/index.xml" rel="self" type="application/rss+xml" />
